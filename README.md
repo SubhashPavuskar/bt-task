@@ -8,7 +8,7 @@
     
     A. Pull the repository from https://github.com/SubhashPavuskar/bt-task.git
     B. Go to the directory path inside /Executable-Jar/
-    C. Enter the command java -jar fairbill.jar <path of log file> 
+    C. Enter the command "java -jar fairbill.jar <path of log file>"
  
-#### Screen shot
+#### Below  is the sample Screen shot
 ![Dashboard](/ScreenShot/screenshot.JPG?raw=true)
