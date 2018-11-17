@@ -4,7 +4,7 @@
     
    CodeBase/fairbill
 
-## 2. Below are the steps to to execute Jar file
+## 2. Below are the steps to execute the Jar file
     
     A. Pull the repository from https://github.com/SubhashPavuskar/bt-task.git
     B. Go to the directory path inside /Executable-Jar/
